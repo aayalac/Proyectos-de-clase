@@ -1,2 +1,2 @@
 # Proyectos-de-clase
-Trabajos para el desarrollo del curso MVC
+Trabajos presentados al docente para el desarrollo del modulo MVC
