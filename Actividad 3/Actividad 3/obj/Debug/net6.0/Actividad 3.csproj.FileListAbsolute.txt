@@ -1,0 +1,15 @@
+D:\Aplicativos consola\Actividad 3\Actividad 3\bin\Debug\net6.0\Actividad 3.exe
+D:\Aplicativos consola\Actividad 3\Actividad 3\bin\Debug\net6.0\Actividad 3.deps.json
+D:\Aplicativos consola\Actividad 3\Actividad 3\bin\Debug\net6.0\Actividad 3.runtimeconfig.json
+D:\Aplicativos consola\Actividad 3\Actividad 3\bin\Debug\net6.0\Actividad 3.dll
+D:\Aplicativos consola\Actividad 3\Actividad 3\bin\Debug\net6.0\Actividad 3.pdb
+D:\Aplicativos consola\Actividad 3\Actividad 3\obj\Debug\net6.0\Actividad 3.csproj.AssemblyReference.cache
+D:\Aplicativos consola\Actividad 3\Actividad 3\obj\Debug\net6.0\Actividad 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplicativos consola\Actividad 3\Actividad 3\obj\Debug\net6.0\Actividad 3.AssemblyInfoInputs.cache
+D:\Aplicativos consola\Actividad 3\Actividad 3\obj\Debug\net6.0\Actividad 3.AssemblyInfo.cs
+D:\Aplicativos consola\Actividad 3\Actividad 3\obj\Debug\net6.0\Actividad 3.csproj.CoreCompileInputs.cache
+D:\Aplicativos consola\Actividad 3\Actividad 3\obj\Debug\net6.0\Actividad 3.dll
+D:\Aplicativos consola\Actividad 3\Actividad 3\obj\Debug\net6.0\refint\Actividad 3.dll
+D:\Aplicativos consola\Actividad 3\Actividad 3\obj\Debug\net6.0\Actividad 3.pdb
+D:\Aplicativos consola\Actividad 3\Actividad 3\obj\Debug\net6.0\Actividad 3.genruntimeconfig.cache
+D:\Aplicativos consola\Actividad 3\Actividad 3\obj\Debug\net6.0\ref\Actividad 3.dll
