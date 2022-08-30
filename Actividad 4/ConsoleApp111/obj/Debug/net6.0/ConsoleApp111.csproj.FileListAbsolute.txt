@@ -1,0 +1,15 @@
+D:\Aplicativos consola\Actividad 4\ConsoleApp111\bin\Debug\net6.0\ConsoleApp111.exe
+D:\Aplicativos consola\Actividad 4\ConsoleApp111\bin\Debug\net6.0\ConsoleApp111.deps.json
+D:\Aplicativos consola\Actividad 4\ConsoleApp111\bin\Debug\net6.0\ConsoleApp111.runtimeconfig.json
+D:\Aplicativos consola\Actividad 4\ConsoleApp111\bin\Debug\net6.0\ConsoleApp111.dll
+D:\Aplicativos consola\Actividad 4\ConsoleApp111\bin\Debug\net6.0\ConsoleApp111.pdb
+D:\Aplicativos consola\Actividad 4\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.csproj.AssemblyReference.cache
+D:\Aplicativos consola\Actividad 4\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplicativos consola\Actividad 4\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.AssemblyInfoInputs.cache
+D:\Aplicativos consola\Actividad 4\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.AssemblyInfo.cs
+D:\Aplicativos consola\Actividad 4\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.csproj.CoreCompileInputs.cache
+D:\Aplicativos consola\Actividad 4\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.dll
+D:\Aplicativos consola\Actividad 4\ConsoleApp111\obj\Debug\net6.0\refint\ConsoleApp111.dll
+D:\Aplicativos consola\Actividad 4\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.pdb
+D:\Aplicativos consola\Actividad 4\ConsoleApp111\obj\Debug\net6.0\ConsoleApp111.genruntimeconfig.cache
+D:\Aplicativos consola\Actividad 4\ConsoleApp111\obj\Debug\net6.0\ref\ConsoleApp111.dll
